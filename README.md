@@ -1,7 +1,7 @@
-# Mini Projetos com javascript puro
+# Mini Projetos com javascript
 
 ## Objetivo
-Não tem outra maneira para se aprender além de **praticar, praticar e praticar**.
+Projeto feito para praticar javasript.
 
 <table border="2">
   <tr>
