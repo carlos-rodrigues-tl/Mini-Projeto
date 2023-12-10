@@ -1,7 +1,11 @@
 # Mini Projetos com javascript
 
 ## Objetivo
-Projeto feito para praticar javasript.
+Minis projetos feitos para praticar javasript.
+
+Projeto #01 Calculadora.
+1 - Projeto simples usando HTML, CSS e Javascript, serve para realizar cálculos.
+2 - Para utilizar basta abrir o arquivo index.html em qualquer navegador ou de outra maneira de sua preferência.
 
 <table border="2">
   <tr>
